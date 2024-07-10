@@ -39,7 +39,7 @@ it will create EXE file.
 
 ## Flask Web Server
 
-1. **Save the following script as `server.py`:**
+1. **Save the server script as `server.py`:**
 
 
 2. **Run the Flask web server:**
