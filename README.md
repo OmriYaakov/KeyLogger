@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a keylogger in Python, which logs all keystrokes to a file and periodically sends the log file to a web server. The keylogger runs in the background without displaying a console window.
+This project implements a keylogger in Python, (The keylogger runs in the background without displaying a console window) which logs all keystrokes to a file and periodically sends the log file to a web server. 
 
 ## Prerequisites
 
